@@ -17,6 +17,7 @@
 ### 2019 ECCV
 
 ## 2018 论文代码
+- State of the Art on Monocular 3D Face Reconstruction, Tracking, and Applications [[paper](https://studios.disneyresearch.com/wp-content/uploads/2019/03/State-of-the-Art-on-Monocular-3D-Face-Reconstruction-Tracking-and-Applications-1.pdf)] (人脸重建综述)
 - Deep Appearance Models for Face Rendering [[paper](https://dl.acm.org/doi/abs/10.1145/3197517.3201401)]
 - Multilinear Autoencoder for 3D Face Model Learning [[paper](https://hal.archives-ouvertes.fr/hal-01700934/document)]
 ### 2018 CVPR
@@ -39,6 +40,8 @@
 ### 2017 ICCV
 - Dense Face Alignment [[paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/w23/html/Liu_Dense_Face_Alignment_ICCV_2017_paper.html)]
 - How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks) [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Bulat_How_Far_Are_ICCV_2017_paper.html)]
+- Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Sela_Unrestricted_Facial_Geometry_ICCV_2017_paper.html)]
+
 ### 2017 ECCV
 
 
