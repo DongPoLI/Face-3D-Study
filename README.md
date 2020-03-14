@@ -6,6 +6,7 @@
 - 3D Dense Face Alignment via Graph Convolution Networks [[paper](https://arxiv.org/abs/1904.05562#:~:text=Recently%2C%203D%20face%20reconstruction%20and,of%20face%20with%20pose%20information.)] （&spades;）
 - 2DASL: Joint 3D Face Reconstruction and Dense Face Alignment from A Single Image with 2D-Assisted Self-Supervised Learning [[paper](https://github.com/XgTu/2DASL)]. [[code](https://arxiv.org/abs/1903.09359)] （&spades;）
 ### 2019 CVPR
+- Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Sanyal_Learning_to_Regress_3D_Face_Shape_and_Expression_From_an_CVPR_2019_paper.html)]
 - Dense 3D Face Decoding over 2500FPS: Joint Texture & Shape Convolutional Mesh Decoders [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhou_Dense_3D_Face_Decoding_Over_2500FPS_Joint_Texture__Shape_CVPR_2019_paper.html)]
 - MMFace: A Multi-Metric Regression Network for Unconstrained Face Reconstruction[[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Yi_MMFace_A_Multi-Metric_Regression_Network_for_Unconstrained_Face_Reconstruction_CVPR_2019_paper.html)]. 
 - Towards High-Fidelity Nonlinear 3D Face Morphable Model [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Tran_Towards_High-Fidelity_Nonlinear_3D_Face_Morphable_Model_CVPR_2019_paper.html)]. [[code](https://github.com/tranluan/Nonlinear_Face_3DMM)].[[project](http://cvlab.cse.msu.edu/project-nonlinear-3dmm.html)]
@@ -33,6 +34,8 @@
 - Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Jackson_Large_Pose_3D_ICCV_2017_paper.html)] [[code](https://github.com/AaronJackson/vrn)] (VRN)
 - Reconstruction-Based Disentanglement for Pose-invariant Face Recognition [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Peng_Reconstruction-Based_Disentanglement_for_ICCV_2017_paper.html)]
 - End-to-end 3D face reconstruction with deep neural networks [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Dou_End-To-End_3D_Face_CVPR_2017_paper.html)]   (&spades;)
+- Learning Detailed Face Reconstruction from a Single Image [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Richardson_Learning_Detailed_Face_CVPR_2017_paper.html)]
+- Photorealistic Facial Texture Inference Using Deep Neural Networks [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Saito_Photorealistic_Facial_Texture_CVPR_2017_paper.html)]  (纹理方面)
 ### 2017 ICCV
 - Dense Face Alignment [[paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/w23/html/Liu_Dense_Face_Alignment_ICCV_2017_paper.html)]
 - How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks) [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Bulat_How_Far_Are_ICCV_2017_paper.html)]
