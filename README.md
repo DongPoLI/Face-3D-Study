@@ -23,6 +23,7 @@
 ### 2018 CVPR
 - Disentangling Features in 3D Face Shapes for Joint Face Reconstruction and Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Liu_Disentangling_Features_in_CVPR_2018_paper.html)] (&spades;)
 - Unsupervised Training for 3D Morphable Model Regression [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Genova_Unsupervised_Training_for_CVPR_2018_paper.html)]
+- Self-supervised Multi-level Face Model Learning for Monocular Reconstruction at over 250 Hz [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Tewari_Self-Supervised_Multi-Level_Face_CVPR_2018_paper.html)]
 ### 2018 ECCV
 - Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Yao_Feng_Joint_3D_Face_ECCV_2018_paper.html)]. [[code](https://github.com/YadiraF/PRNet)] (PRNet) （&spades;）
 - Generating 3D faces using Convolutional Mesh Autoencoders [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Anurag_Ranjan_Generating_3D_Faces_ECCV_2018_paper.html)]
@@ -41,6 +42,8 @@
 - Dense Face Alignment [[paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/w23/html/Liu_Dense_Face_Alignment_ICCV_2017_paper.html)]
 - How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks) [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Bulat_How_Far_Are_ICCV_2017_paper.html)]
 - Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Sela_Unrestricted_Facial_Geometry_ICCV_2017_paper.html)]
+- MoFA: Model-based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction [[paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/w19/html/Tewari_MoFA_Model-Based_Deep_ICCV_2017_paper.html)]
+
 
 ### 2017 ECCV
 
