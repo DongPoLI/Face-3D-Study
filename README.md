@@ -6,7 +6,7 @@
 - 2DASL: Joint 3D Face Reconstruction and Dense Face Alignment from A Single Image with 2D-Assisted Self-Supervised Learning [[paper](https://github.com/XgTu/2DASL)]. [[code](https://arxiv.org/abs/1903.09359)]
 ### 2019 CVPR
 - MVF-Net: Multi-View 3D Face Morphable Model Regression [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_MVF-Net_Multi-View_3D_Face_Morphable_Model_Regression_CVPR_2019_paper.html)]. [[code](https://github.com/Fanziapril/mvfnet)]
-- 
+-  RingNet: Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Sanyal_Learning_to_Regress_3D_Face_Shape_and_Expression_From_an_CVPR_2019_paper.html)].[[code](https://github.com/soubhiksanyal/RingNet)]. [[project](https://ringnet.is.tue.mpg.de/)]
 ### 2019 ECCV
 
 ## 2018 论文代码
