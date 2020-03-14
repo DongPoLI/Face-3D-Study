@@ -16,6 +16,7 @@
 
 ## 2018 论文代码
 - Deep Appearance Models for Face Rendering [[paper](https://dl.acm.org/doi/abs/10.1145/3197517.3201401)]
+- Multilinear Autoencoder for 3D Face Model Learning [[paper](https://hal.archives-ouvertes.fr/hal-01700934/document)]
 ### 2018 CVPR
 - Disentangling Features in 3D Face Shapes for Joint Face Reconstruction and Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Liu_Disentangling_Features_in_CVPR_2018_paper.html)] (&spades;)
 - Unsupervised Training for 3D Morphable Model Regression [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Genova_Unsupervised_Training_for_CVPR_2018_paper.html)]
@@ -28,6 +29,9 @@
 ### 2017 CVPR
 - Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural Network [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Tran_Regressing_Robust_and_CVPR_2017_paper.html)]. [[code](https://github.com/anhttran/3dmm_cnn)]. [[project](https://talhassner.github.io/home/publication/2017_CVPR)] (3dmm_cnn) (&spades;)
 - Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Jackson_Large_Pose_3D_ICCV_2017_paper.html)] [[code](https://github.com/AaronJackson/vrn)] (VRN)
+
+### 2017 ICCV
+- Dense Face Alignment [[paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/w23/html/Liu_Dense_Face_Alignment_ICCV_2017_paper.html)]
 
 ### 2017 ECCV
 
