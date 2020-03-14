@@ -16,7 +16,6 @@
 -  RingNet: Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Sanyal_Learning_to_Regress_3D_Face_Shape_and_Expression_From_an_CVPR_2019_paper.html)].[[code](https://github.com/soubhiksanyal/RingNet)]. [[project](https://ringnet.is.tue.mpg.de/)]
 - Self-Supervised Adaptation of High-Fidelity Face Models for Monocular Performance Tracking [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Yoon_Self-Supervised_Adaptation_of_High-Fidelity_Face_Models_for_Monocular_Performance_Tracking_CVPR_2019_paper.html)].  （&spades;）
 - Speech2Face: Learning the Face Behind a Voice [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Oh_Speech2Face_Learning_the_Face_Behind_a_Voice_CVPR_2019_paper.html)]
-### 2019 ECCV
 
 ## 2018 论文代码
 - State of the Art on Monocular 3D Face Reconstruction, Tracking, and Applications [[paper](https://studios.disneyresearch.com/wp-content/uploads/2019/03/State-of-the-Art-on-Monocular-3D-Face-Reconstruction-Tracking-and-Applications-1.pdf)] (人脸重建综述)
@@ -46,15 +45,9 @@
 - Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Sela_Unrestricted_Facial_Geometry_ICCV_2017_paper.html)]
 - MoFA: Model-based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction [[paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/w19/html/Tewari_MoFA_Model-Based_Deep_ICCV_2017_paper.html)]
 
-
-### 2017 ECCV
-
-
 ## 2016 论文代码
 - 3D Face Reconstruction by Learning from Synthetic Data [[paper](https://arxiv.org/abs/1609.04387)]
 ### 2016 CVPR
 - Face Alignment Across Large Poses: A 3D Solution [[paper](http://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html)]. [[code](https://github.com/cleardusk/3DDFA)] （&spades;）
 - Face Alignment in Full Pose Range: A 3D Total Solution [[paper](https://arxiv.org/abs/1804.01005)]. [[code](https://github.com/cleardusk/3DDFA)]. [[project](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)]  [不是CVPR 是TPAMI / PAMI] [3DDFA]
 
-
-### 2016 ECCV
