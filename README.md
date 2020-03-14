@@ -3,6 +3,7 @@
 ## 2020 论文代码
 
 ## 2019  论文代码
+- 3D Dense Face Alignment via Graph Convolution Networks [[paper](https://arxiv.org/abs/1904.05562#:~:text=Recently%2C%203D%20face%20reconstruction%20and,of%20face%20with%20pose%20information.)]
 - 2DASL: Joint 3D Face Reconstruction and Dense Face Alignment from A Single Image with 2D-Assisted Self-Supervised Learning [[paper](https://github.com/XgTu/2DASL)]. [[code](https://arxiv.org/abs/1903.09359)]
 ### 2019 CVPR
 - MVF-Net: Multi-View 3D Face Morphable Model Regression [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_MVF-Net_Multi-View_3D_Face_Morphable_Model_Regression_CVPR_2019_paper.html)]. [[code](https://github.com/Fanziapril/mvfnet)]
