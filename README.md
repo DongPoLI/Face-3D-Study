@@ -31,6 +31,7 @@
 - Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural Network [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Tran_Regressing_Robust_and_CVPR_2017_paper.html)]. [[code](https://github.com/anhttran/3dmm_cnn)]. [[project](https://talhassner.github.io/home/publication/2017_CVPR)] (3dmm_cnn) (&spades;)
 - Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Jackson_Large_Pose_3D_ICCV_2017_paper.html)] [[code](https://github.com/AaronJackson/vrn)] (VRN)
 - Reconstruction-Based Disentanglement for Pose-invariant Face Recognition [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Peng_Reconstruction-Based_Disentanglement_for_ICCV_2017_paper.html)]
+- End-to-end 3D face reconstruction with deep neural networks [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Dou_End-To-End_3D_Face_CVPR_2017_paper.html)]   (&spades;)
 ### 2017 ICCV
 - Dense Face Alignment [[paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/w23/html/Liu_Dense_Face_Alignment_ICCV_2017_paper.html)]
 - How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks) [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Bulat_How_Far_Are_ICCV_2017_paper.html)]
