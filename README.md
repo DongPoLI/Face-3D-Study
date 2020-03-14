@@ -9,6 +9,7 @@
 - 3D Dense Face Alignment via Graph Convolution Networks [[paper](https://arxiv.org/abs/1904.05562#:~:text=Recently%2C%203D%20face%20reconstruction%20and,of%20face%20with%20pose%20information.)] （&spades;）
 - 2DASL: Joint 3D Face Reconstruction and Dense Face Alignment from A Single Image with 2D-Assisted Self-Supervised Learning [[paper](https://github.com/XgTu/2DASL)]. [[code](https://arxiv.org/abs/1903.09359)] （&spades;）
 ### 2019 CVPR
+- GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.html)]. [[code](https://github.com/barisgecer/GANFit)]
 - Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Sanyal_Learning_to_Regress_3D_Face_Shape_and_Expression_From_an_CVPR_2019_paper.html)]
 - Dense 3D Face Decoding over 2500FPS: Joint Texture & Shape Convolutional Mesh Decoders [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhou_Dense_3D_Face_Decoding_Over_2500FPS_Joint_Texture__Shape_CVPR_2019_paper.html)]
 - MMFace: A Multi-Metric Regression Network for Unconstrained Face Reconstruction[[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Yi_MMFace_A_Multi-Metric_Regression_Network_for_Unconstrained_Face_Reconstruction_CVPR_2019_paper.html)]. 
