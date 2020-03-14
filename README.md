@@ -20,7 +20,7 @@
 ### ICCV
  - 3D Face Shape Regression From 2D Videos with Multi-reconstruction and Mesh Retrieval [[paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/3DFAW/Shao_3D_Face_Shape_Regression_From_2D_Videos_with_Multi-Reconstruction_and_ICCVW_2019_paper.html)] (3DFAW比赛论文) 
  - The 2 nd 3D Face Alignment in the Wild Challenge (3DFAW-Video): Dense Reconstruction From Video[[paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/3DFAW/Pillai_The_2nd_3D_Face_Alignment_in_the_Wild_Challenge_3DFAW-Video_ICCVW_2019_paper.html)]  (3DFAW比赛论文， 从Video重建3D人脸  研究趋势) 
- 
+ - DF2Net: A Dense-Fine-Finer Network for Detailed 3D Face Reconstruction [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_DF2Net_A_Dense-Fine-Finer_Network_for_Detailed_3D_Face_Reconstruction_ICCV_2019_paper.pdf)]
 ## 2018 论文代码
 - State of the Art on Monocular 3D Face Reconstruction, Tracking, and Applications [[paper](https://studios.disneyresearch.com/wp-content/uploads/2019/03/State-of-the-Art-on-Monocular-3D-Face-Reconstruction-Tracking-and-Applications-1.pdf)] (人脸重建综述)
 - Deep Appearance Models for Face Rendering [[paper](https://dl.acm.org/doi/abs/10.1145/3197517.3201401)]
