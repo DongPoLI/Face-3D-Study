@@ -15,6 +15,7 @@
 ### 2019 ECCV
 
 ## 2018 论文代码
+- Deep Appearance Models for Face Rendering [[paper](https://dl.acm.org/doi/abs/10.1145/3197517.3201401)]
 ### 2018 CVPR
 
 ### 2018 ECCV
