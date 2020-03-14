@@ -1,0 +1,12 @@
+Face 3D¶
+2DASL: Joint 3D Face Reconstruction and Dense Face Alignment from A Single Image with 2D-Assisted Self-Supervised Learning [paper] [code]
+MVF-Net: Multi-View 3D Face Morphable Model Regression [paper] [code]
+Dense 3D Face Decoding Over 2500FPS: Joint Texture & Shape Convolutional Mesh Decoders [paper]
+Towards High-Fidelity Nonlinear 3D Face Morphable Model [paper] [project]
+Combining 3D Morphable Models: A Large Scale Face-And-Head Model [paper]
+Disentangled Representation Learning for 3D Face Shape [paper] [code]
+Self-Supervised Adaptation of High-Fidelity Face Models for Monocular Performance Tracking [paper]
+MMFace: A Multi-Metric Regression Network for Unconstrained Face Reconstruction [paper]
+RingNet: Learning to Regress 3D Face Shape and Expression From an Image Without 3D Supervision [paper] [code] [project]
+Boosting Local Shape Matching for Dense 3D Face Correspondence [paper]
+FML: Face Model Learning From Videos [paper]
