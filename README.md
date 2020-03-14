@@ -27,9 +27,10 @@
 
 
 ## 2016 论文代码
+- 3D Face Reconstruction by Learning from Synthetic Data [[paper](https://arxiv.org/abs/1609.04387)]
 ### 2016 CVPR
-- Face Alignment Across Large Poses: A 3D Solution [[paper](http://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html)]. [[code](https://github.com/cleardusk/3DDFA)]
+- Face Alignment Across Large Poses: A 3D Solution [[paper](http://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html)]. [[code](https://github.com/cleardusk/3DDFA)] （&spades;）
 - Face Alignment in Full Pose Range: A 3D Total Solution [[paper](https://arxiv.org/abs/1804.01005)]. [[code](https://github.com/cleardusk/3DDFA)]. [[project](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)]  [不是CVPR 是TPAMI / PAMI] [3DDFA]
-- 
+
 
 ### 2016 ECCV
