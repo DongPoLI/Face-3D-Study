@@ -12,6 +12,7 @@
 - MVF-Net: Multi-View 3D Face Morphable Model Regression [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_MVF-Net_Multi-View_3D_Face_Morphable_Model_Regression_CVPR_2019_paper.html)]. [[code](https://github.com/Fanziapril/mvfnet)] （&spades;）
 -  RingNet: Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Sanyal_Learning_to_Regress_3D_Face_Shape_and_Expression_From_an_CVPR_2019_paper.html)].[[code](https://github.com/soubhiksanyal/RingNet)]. [[project](https://ringnet.is.tue.mpg.de/)]
 - Self-Supervised Adaptation of High-Fidelity Face Models for Monocular Performance Tracking [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Yoon_Self-Supervised_Adaptation_of_High-Fidelity_Face_Models_for_Monocular_Performance_Tracking_CVPR_2019_paper.html)].  （&spades;）
+- Speech2Face: Learning the Face Behind a Voice [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Oh_Speech2Face_Learning_the_Face_Behind_a_Voice_CVPR_2019_paper.html)]
 ### 2019 ECCV
 
 ## 2018 论文代码
