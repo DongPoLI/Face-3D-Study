@@ -19,6 +19,7 @@
 
 ### 2018 ECCV
 - Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Yao_Feng_Joint_3D_Face_ECCV_2018_paper.html)]. [[code](https://github.com/YadiraF/PRNet)] (PRNet) （&spades;）
+- Generating 3D faces using Convolutional Mesh Autoencoders [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Anurag_Ranjan_Generating_3D_Faces_ECCV_2018_paper.html)]
 ## 2017 论文代码
 ### 2017 CVPR
 - Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural Network [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Tran_Regressing_Robust_and_CVPR_2017_paper.html)]. [[code](https://github.com/anhttran/3dmm_cnn)]. [[project](https://talhassner.github.io/home/publication/2017_CVPR)] (3dmm_cnn) (&spades;)
