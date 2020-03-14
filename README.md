@@ -9,7 +9,7 @@
 - Dense 3D Face Decoding over 2500FPS: Joint Texture & Shape Convolutional Mesh Decoders [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhou_Dense_3D_Face_Decoding_Over_2500FPS_Joint_Texture__Shape_CVPR_2019_paper.html)]
 - MMFace: A Multi-Metric Regression Network for Unconstrained Face Reconstruction[[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Yi_MMFace_A_Multi-Metric_Regression_Network_for_Unconstrained_Face_Reconstruction_CVPR_2019_paper.html)]. 
 - Towards High-Fidelity Nonlinear 3D Face Morphable Model [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Tran_Towards_High-Fidelity_Nonlinear_3D_Face_Morphable_Model_CVPR_2019_paper.html)]. [[code](https://github.com/tranluan/Nonlinear_Face_3DMM)].[[project](http://cvlab.cse.msu.edu/project-nonlinear-3dmm.html)]
-- MVF-Net: Multi-View 3D Face Morphable Model Regression [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_MVF-Net_Multi-View_3D_Face_Morphable_Model_Regression_CVPR_2019_paper.html)]. [[code](https://github.com/Fanziapril/mvfnet)] （&spades;）
+- MVF-Net: Multi-View 3D Face Morphable Model Regression [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_MVF-Net_Multi-View_3D_Face_Morphable_Model_Regression_CVPR_2019_paper.html)]. [[code](https://github.com/Fanziapril/mvfnet)] （&spades;）(多视图重建)
 -  RingNet: Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Sanyal_Learning_to_Regress_3D_Face_Shape_and_Expression_From_an_CVPR_2019_paper.html)].[[code](https://github.com/soubhiksanyal/RingNet)]. [[project](https://ringnet.is.tue.mpg.de/)]
 - Self-Supervised Adaptation of High-Fidelity Face Models for Monocular Performance Tracking [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Yoon_Self-Supervised_Adaptation_of_High-Fidelity_Face_Models_for_Monocular_Performance_Tracking_CVPR_2019_paper.html)].  （&spades;）
 - Speech2Face: Learning the Face Behind a Voice [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Oh_Speech2Face_Learning_the_Face_Behind_a_Voice_CVPR_2019_paper.html)]
@@ -33,7 +33,7 @@
 - Reconstruction-Based Disentanglement for Pose-invariant Face Recognition [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Peng_Reconstruction-Based_Disentanglement_for_ICCV_2017_paper.html)]
 ### 2017 ICCV
 - Dense Face Alignment [[paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/w23/html/Liu_Dense_Face_Alignment_ICCV_2017_paper.html)]
-
+- How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks) [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Bulat_How_Far_Are_ICCV_2017_paper.html)]
 ### 2017 ECCV
 
 
