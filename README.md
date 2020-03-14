@@ -28,4 +28,5 @@
 
 ## 2016 论文代码
 ### 2016 CVPR
+- Face Alignment Across Large Poses: A 3D Solution [[paper](http://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html)] [[code](https://github.com/cleardusk/3DDFA)]
 ### 2016 ECCV
