@@ -18,4 +18,4 @@
 
 ## 2015 论文代码
 ### 2015 CVPR
-- High-Fidelity Pose and Expression Normalization for Face Recognition in the Wild [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Zhu_High-Fidelity_Pose_and_2015_CVPR_paper.html)] 
+- High-Fidelity Pose and Expression Normalization for Face Recognition in the Wild [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Zhu_High-Fidelity_Pose_and_2015_CVPR_paper.html)] (HPEN)
