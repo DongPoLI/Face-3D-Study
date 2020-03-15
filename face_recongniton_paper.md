@@ -4,7 +4,8 @@
 
 ### 2020 CVPR
 - Weakly supervised discriminative feature learning with state information for person identification [[paper](https://arxiv.org/pdf/2002.11939.pdf)]. [[code](https://github.com/KovenYu/state-information)]
-
+- Learning Meta Face Recognition in Unseen Domains [?]
+- Domain Balancing: Face Recognition on Long-Tailed Domains [?]
 ## 2019 论文代码
 
 
