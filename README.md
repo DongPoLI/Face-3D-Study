@@ -2,7 +2,7 @@
 有关3D人脸重建的论文和代码，做个记录，以便与学习，和后来者阅读；黑桃符号(&spades;):表示 我已读过。
 ## 2020 论文代码
 ### 2020 CVPR
-
+- FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction [] (百度)
 
 ## 2019  论文代码
 - Face Reconstruction from Voice using Generative dversarial Networks [[paper]](http://papers.nips.cc/paper/8768-face-reconstruction-from-voice-using-generative-adversarial-networks)
