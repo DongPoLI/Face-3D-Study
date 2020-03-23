@@ -7,6 +7,10 @@
 
 ### 2.  从UV位置图 产生的 3D人脸模型效果
 1. ply 文件效果 （不带纹理，形状）
-
+![ply](https://github.com/DongPoLI/Face-3D-Study/blob/master/generate_position_map/results/image00050.png)
 2. obj 文件效果（带纹理）
 https://blog.csdn.net/qq_23944915/article/details/105046742
+![obj](https://github.com/DongPoLI/Face-3D-Study/blob/master/generate_position_map/results/image0050_with_colors.png)
+
+代码在 generate_position_map文件夹中
+链接： https://blog.csdn.net/qq_23944915/article/details/105046742
