@@ -8,6 +8,7 @@
 - Face Reconstruction from Voice using Generative dversarial Networks [[paper]](http://papers.nips.cc/paper/8768-face-reconstruction-from-voice-using-generative-adversarial-networks)
 - 3D Dense Face Alignment via Graph Convolution Networks [[paper](https://arxiv.org/abs/1904.05562#:~:text=Recently%2C%203D%20face%20reconstruction%20and,of%20face%20with%20pose%20information.)] （&spades;）
 - 2DASL: Joint 3D Face Reconstruction and Dense Face Alignment from A Single Image with 2D-Assisted Self-Supervised Learning [[paper](https://github.com/XgTu/2DASL)]. [[code](https://arxiv.org/abs/1903.09359)] （&spades;）
+- On learning 3d face morphable model from in-the-wild images [[paper](https://arxiv.org/abs/1808.09560)] (TPAMI)
 ### 2019 CVPR
 - GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.html)]. [[code](https://github.com/barisgecer/GANFit)]
 - Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Sanyal_Learning_to_Regress_3D_Face_Shape_and_Expression_From_an_CVPR_2019_paper.html)]
@@ -30,6 +31,7 @@
 - Disentangling Features in 3D Face Shapes for Joint Face Reconstruction and Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Liu_Disentangling_Features_in_CVPR_2018_paper.html)] (&spades;)
 - Unsupervised Training for 3D Morphable Model Regression [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Genova_Unsupervised_Training_for_CVPR_2018_paper.html)]
 - Self-supervised Multi-level Face Model Learning for Monocular Reconstruction at over 250 Hz [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Tewari_Self-Supervised_Multi-Level_Face_CVPR_2018_paper.html)]
+- Nonlinear 3D Face Morphable Model [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tran_Nonlinear_3D_Face_CVPR_2018_paper.pdf)]
 ### 2018 ECCV
 - Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Yao_Feng_Joint_3D_Face_ECCV_2018_paper.html)]. [[code](https://github.com/YadiraF/PRNet)] (PRNet) （&spades;）
 - Generating 3D faces using Convolutional Mesh Autoencoders [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Anurag_Ranjan_Generating_3D_Faces_ECCV_2018_paper.html)]
