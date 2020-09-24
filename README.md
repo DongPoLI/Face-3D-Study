@@ -3,6 +3,11 @@
 ## 2020 论文代码
 ### 2020 CVPR
 - FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction [] (百度)
+- Towards High-Fidelity 3D Face Reconstruction From In-the-Wild Images Using Graph Convolutional Networks 
+- ReDA:Reinforced Differentiable Attribute for 3D Face Reconstruction 
+- AvatarMe: Realistically Renderable 3D Facial Reconstruction "In-the-Wild"
+- Uncertainty-Aware Mesh Decoder for High Fidelity 3D Face Reconstruction
+- Deep Facial Non-Rigid Multi-View Stereo
 
 ## 2019  论文代码
 - Face Reconstruction from Voice using Generative dversarial Networks [[paper]](http://papers.nips.cc/paper/8768-face-reconstruction-from-voice-using-generative-adversarial-networks)
